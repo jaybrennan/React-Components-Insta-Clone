@@ -2,6 +2,7 @@
 
 import React from 'react';
 import './Comment.css';
+import allComments from '../CommentSection/CommentSectionContainer'
 
 const Comment = props => {
   return (
